@@ -261,4 +261,6 @@ def arraypartition(nums):
 
 pprint(arraypartition([6,2,6,5,1,2]))
 
+ 
+
 
